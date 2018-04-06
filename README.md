@@ -1,1 +1,1 @@
-#game con rang san moi
+# Game Snake written by Java
